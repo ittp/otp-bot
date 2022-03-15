@@ -1,0 +1,5 @@
+method: ssh
+method: http
+method: webauth
+method: api
+
