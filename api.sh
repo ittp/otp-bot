@@ -1,2 +1,11 @@
 
 export OTP_API=""
+
+
+SECRET="1234567890"
+CODE="000000"
+SERVER=""
+
+TIME=""
+
+
